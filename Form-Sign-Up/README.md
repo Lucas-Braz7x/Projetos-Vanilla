@@ -16,7 +16,7 @@
    
  # Screenshots: 
  
- <div align="center">![Alt text](./images/screenshot01.png)</div>
+ ![Alt text](./images/screenshot01.png align="center")
   
  
   ![Alt text](./images/screenshot02.png);
