@@ -16,5 +16,6 @@
    
  # Screenshots: 
  
- ![Alt text](./images/screenshot01.png);
-![Alt text](./images/screenshot02.png);
+  <p text-align="center">![Alt text](./images/screenshot01.png);</p> 
+ 
+  ![Alt text](./images/screenshot02.png);
