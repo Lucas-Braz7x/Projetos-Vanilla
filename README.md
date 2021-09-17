@@ -4,6 +4,6 @@ Repositório criado para praticar propriedades, efeitos e animações utilizando
 
 ## Projetos:
 
-  - [Form-Sign-Up]
-  - ![button-hover](button-hover.netlify.app)
-  - [SlideShow]()
+  - `[Form-Sign-Up]`
+  - `[button-hover](button-hover.netlify.app) <button-hover.netlify.app>`
+  - `[SlideShow]()`
