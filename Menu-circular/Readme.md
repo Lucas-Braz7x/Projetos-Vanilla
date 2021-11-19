@@ -1,9 +1,10 @@
 # Menu-circular
 
   - Trata-se de um menu circular suspenso.
-
+<div styles="display: flex;">
   <img src="./images/menu.png">
   <img src="./images/menu-active.png">
+</div>
 
 # Tecnologias usadas:
 
